@@ -1,3 +1,8 @@
+/*
+Thanks pretendo for original NAT
+Retendo converted to typescript, udpated the code and added some code.
+*/
+
 import * as dgram from 'dgram';
 import * as ip from 'ip';
 
